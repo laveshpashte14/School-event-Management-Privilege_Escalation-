@@ -20,3 +20,6 @@ Steps to Reproduce
 
 7.) Refresh or logout and login again as **Test:Password@1234** observe that the **user:Test** is now an administrator.
 ![image](https://github.com/laveshpashte14/School-event-Management-Privilege_Escalation-/assets/106723835/49437604-fdc2-4191-860b-024cf41348b0)
+
+
+
